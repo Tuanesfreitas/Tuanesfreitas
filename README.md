@@ -1,6 +1,6 @@
 # [Tuane Freitas] <img src="https://static.vecteezy.com/system/resources/previews/016/583/978/large_2x/zodiac-constellation-zodiac-sign-png.png" width="50px">
 
-Eu sou <strong>Tuane Freitas</strong>, <strong>Estudante de Desenvolvimento Full-stack</strong> 👨🏻‍💻 
+Eu sou <strong>Tuane Freitas</strong>, <strong>Estudante de Desenvolvimento Full-stack</strong> 🤯
 
 - 🚀 Atualmente estou aprendendo: <strong>Git e Github</strong> 
 >
