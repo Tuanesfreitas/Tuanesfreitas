@@ -1,16 +1,19 @@
-### Hi there 👋
+# [Tuane Freitas] <img src="https://i.gifer.com/V4ud.gif" width="30px">
 
-<!--
-**Tuanesfreitas/Tuanesfreitas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou <strong>Tuane Freitas</strong>, <strong>Estudante de Desenvolvimento Full-stack</strong> 👨🏻‍💻 
 
-Here are some ideas to get you started:
+- 🚀 Atualmente estou aprendendo: <strong>Git e Github</strong> 
+>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+
+  <a href="#" alt="Gmail">
+    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=tuanesfreitasab@gmail.com"/></a>
+
+  <a href="#" alt="Linkedin">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+
+  <a href="#" alt="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/tutisff/"/></a>
+
+</div>
