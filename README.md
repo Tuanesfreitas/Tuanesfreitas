@@ -1,4 +1,4 @@
-# [Tuane Freitas] <img src="https://static.vecteezy.com/system/resources/previews/016/583/978/large_2x/zodiac-constellation-zodiac-sign-png.png" width="30px">
+# [Tuane Freitas] <img src="https://static.vecteezy.com/system/resources/previews/016/583/978/large_2x/zodiac-constellation-zodiac-sign-png.png" width="50px">
 
 Eu sou <strong>Tuane Freitas</strong>, <strong>Estudante de Desenvolvimento Full-stack</strong> 👨🏻‍💻 
 
